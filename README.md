@@ -51,7 +51,7 @@ PHQ-9 SCREENING SUMMARY
 
 PHQ-9 Score: 14
 
-Severity: Moderate
+Severity: Moderate Depression
 
 Clinical Review:
 Positive response on PHQ-9 Item 9. Clinical review recommended.
